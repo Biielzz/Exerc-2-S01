@@ -11,3 +11,5 @@ public class KillController {
 	//	return os;
 		}
 
+int g = 10;
+
